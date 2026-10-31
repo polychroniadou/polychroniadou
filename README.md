@@ -12,6 +12,10 @@
 
 🔭 &nbsp;I'm currently working on **my Master's Thesis which focuses on 3D CNN for automated damage detection in heritage sites**
 
+- 🎓 **Education:** MSc student in **Geography & Applied Geoinformatics** at the University of the Aegean, with a background in **Heritage Management**.
+- 🔬 **Thesis:** Developing 3D Convolutional Neural Networks (3D CNNs) for automated structural damage detection on cultural heritage monuments using UAV and LiDAR point clouds.
+- 🎯 **Interests:** Earth Observation, Multispectral Remote Sensing, Point Cloud Processing, Satellite-Derived Bathymetry (SDB), and Geospatial Automation with Python.
+
 ### 🛠️ Tech Stack
 
 <p align="left">
@@ -26,6 +30,22 @@
 
 </p>
 
+### 🗺️ Featured Geospatial Projects
+
+- **[Multi-Scale UAV Mapping — Lesvos Geopark](https://github.com/polychroniadou/Lesvos-Geopark)**  
+  High-resolution UAV photogrammetry (DJI Mavic 3E, 0.67 cm/px GSD) & aerial LiDAR (DJI Zenmuse L1) survey of UNESCO fossil reserves. Includes 3D textured mesh modeling (5.6M faces), DEM generation, and Cloud-to-Cloud (C2C) alignment in CloudCompare.
+
+- **[Cairo Urban Expansion (2015–2025)](https://github.com/polychroniadou/Cairo-Egypt-Urban-Expansion-2015---2025)**  
+  Decadal built-environment change detection across Greater Cairo (>530 km²) from Sentinel-2 multi-spectral imagery using a vectorized Artificial Neural Network (ANN / `patternnet`) in MATLAB and GIS spatial analysis.
+
+- **[Wildfire Ignition Risk Susceptibility](https://github.com/polychroniadou/Fire-Risk-Map)**  
+  Spatial logistic regression model assessing wildfire ignition probability across Lesvos Island from terrain and anthropogenic infrastructure variables using ArcGIS Pro, Python (`arcpy`), and SPSS.
+
+<p align="left">
+  <a href="https://sketchfab.com/mariapolchr" target="_blank">
+    <img src="https://img.shields.io/badge/Interactive_3D_Models-Sketchfab-orange?style=for-the-badge&logo=sketchfab&logoColor=white" alt="Sketchfab Profile" />
+  </a>
+</p>
 
 ### 📊 GitHub Stats
 
