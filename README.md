@@ -23,9 +23,7 @@
   <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
   <img src="https://img.shields.io/badge/Agisoft_Metashape-003366?style=for-the-badge&logoColor=white" alt="Agisoft Metashape" />
   <img src="https://img.shields.io/badge/Google_Earth_Engine-24897B?style=for-the-badge&logo=googleearthengine&logoColor=white" alt="GEE" />
-  <img src="https://img.shields.io/badge/DJI_Mavic_3E-2D2D2D?style=for-the-badge&logo=dji&logoColor=white" alt="DJI Mavic 3E" />
-  <img src="https://img.shields.io/badge/UAV_LiDAR_(Zenmuse_L1)-008080?style=for-the-badge&logoColor=white" alt="LiDAR" />
-  <img src="https://img.shields.io/badge/Photogrammetry-555555?style=for-the-badge&logoColor=white" alt="Photogrammetry" />
+
 </p>
 
 ### 🔗 Connect With Me
