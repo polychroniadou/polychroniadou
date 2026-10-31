@@ -18,6 +18,12 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/ArcGIS_Pro-005E95?style=for-the-badge&logo=arcgis&logoColor=white" alt="ArcGIS Pro" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS" />
+  <img src="https://img.shields.io/badge/Agisoft_Metashape-003366?style=for-the-badge&logoColor=white" alt="Agisoft Metashape" />
+  <img src="https://img.shields.io/badge/CloudCompare-4682B4?style=for-the-badge&logoColor=white" alt="CloudCompare" />
+  <img src="https://img.shields.io/badge/Copernicus_Sentinel--2-003399?style=for-the-badge&logoColor=white" alt="Sentinel-2" />
+  <img src="https://img.shields.io/badge/Google_Earth_Engine-24897B?style=for-the-badge&logo=googleearthengine&logoColor=white" alt="GEE" />
 </p>
 
 ### 🔗 Connect With Me
