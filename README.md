@@ -10,9 +10,6 @@
 
 ### 🚀 About Me
 
-🔭 &nbsp;I'm currently working on **my Master's Thesis which focuses on 3D CNN for automated damage detection in heritage sites**
-
-- 🎓 **Education:** MSc student in **Geography & Applied Geoinformatics** at the University of the Aegean, with a background in **Heritage Management**.
 - 🔬 **Thesis:** Developing 3D Convolutional Neural Networks (3D CNNs) for automated structural damage detection on cultural heritage monuments using UAV and LiDAR point clouds.
 - 🎯 **Interests:** Earth Observation, Multispectral Remote Sensing, Point Cloud Processing, Satellite-Derived Bathymetry (SDB), and Geospatial Automation with Python.
 
